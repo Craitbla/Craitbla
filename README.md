@@ -7,6 +7,9 @@
 <a href="mailto:ki225431@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
     </a>
+    <a href="https://leetcode.com/u/Aglettt/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </div> 
 <div align="center">
 <br> <img src="DawnBackdrop.gif" alt="gif-hello" width="1200" /> 
