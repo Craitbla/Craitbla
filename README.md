@@ -14,9 +14,9 @@
 
 ## About Me :
 
-- I am a Java-developer from Russia/Kazan.
+- :technologist: I am a Java-developer from Russia/Kazan.
 
-- I study at School 21 (School for developers from Sber).
+- :school: I study at School 21 (School for developers from Sber).
 
 - :star2: I want to know more spells.
 
@@ -34,7 +34,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench:  Additional :
+### :jigsaw:  Additional :
 
 <div>
 
@@ -47,5 +47,9 @@
 
 </div>
 
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craitbla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+    
 
 
